@@ -25,6 +25,9 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'pg'
 
+gem 'dry-struct'
+gem 'dry-types'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
